@@ -1,0 +1,13 @@
+.payslipwrapper{
+  display:flex;
+  justify-content: center;
+}
+.paybutton{
+   margin-left: 85%;
+}
+
+.paytable tr {
+   line-height: 5px;
+   min-height: 5px;
+   height: 5px;
+}

@@ -1,0 +1,71 @@
+.firstname{
+  margin-right: 15px;
+}
+
+.annualsalary{
+  margin-right: 15px;
+  text-align: center;
+  width: 168px;
+  border-radius: 5px;
+}
+
+.superrate{
+  margin-left: 8px;
+  text-align: center;
+  width: 165px;
+}
+
+.name{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.salary{
+  margin-bottom: 15px;
+
+}
+
+.generatebutton{
+   margin-left: 61%;
+}
+
+.employee-info-form {
+  text-align: center;
+}
+
+
+#mainwrapper {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.firstnameicon {
+  position: absolute;
+  margin-left: -3%;
+  background-color: #d3d3d3;
+  padding: 3px 5px;
+}
+
+.dollaricon {
+  position: absolute;
+  background-color: #d3d3d3;
+  padding: 3px 3px;
+}
+
+.decimalicon {
+  position: absolute;
+  margin-left: -2.4%;
+  background-color: #d3d3d3;
+  padding: 3px 3px;
+}
+
+.percentageicon {
+  position: absolute;
+  background-color: #d3d3d3;
+  padding: 3px 3px;
+}
